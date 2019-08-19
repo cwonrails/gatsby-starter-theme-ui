@@ -1,8 +1,8 @@
 {
-  "name": "",
+  "name": "gatsby-theme-ui-template",
   "version": "0.0.0",
   "description": "",
-  "license": "",
+  "license": "MIT",
   "author": {},
   "repository": {},
   "scripts": {
@@ -21,6 +21,12 @@
     "theme-ui": "^0.2.33"
   },
   "devDependencies": {
+    "@rxts/eslint-plugin-mdx": "^0.11.2",
+    "eslint": "^6.2.0",
+    "eslint-config-prettier": "^6.1.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-prettier": "^3.1.0",
+    "eslint-plugin-react": "^7.14.3",
     "husky": "^3.0.3",
     "lint-staged": "^9.2.1",
     "prettier": "^1.18.2"
