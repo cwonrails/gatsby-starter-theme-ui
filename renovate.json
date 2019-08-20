@@ -1,8 +1,3 @@
 {
-  "extends": ["config:base", ":automergeAll", ":automergeBranchPush"],
-  "packageRules": [
-    {
-      "automerge": true
-    }
-  ]
+  "extends": ["config:base"]
 }
