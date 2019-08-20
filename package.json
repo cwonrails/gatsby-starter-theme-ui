@@ -11,7 +11,7 @@
     "build": "gatsby build"
   },
   "dependencies": {
-    "@emotion/core": "10.0.15",
+    "@emotion/core": "10.0.16",
     "@mdx-js/react": "1.2.2",
     "@theme-ui/presets": "0.2.34",
     "gatsby": "2.13.61",
