@@ -21,17 +21,17 @@ extends:
   - prettier
 
 rules:
-  eqeqeq: off
-  no-eq-null: off
-  no-negated-condition: off
+  eqeqeq: 0
+  no-eq-null: 0
+  no-negated-condition: 0
   no-unused-vars:
     - error
     - args: after-used
-      argsIgnorePattern: "^_"
+      argsIgnorePattern: '^_'
   no-var: error
   import/no-extraneous-dependencies: error
   prettier/prettier: error
-  no-console: off
+  no-console: 0
   react/prop-types: off
   react/display-name: off
   react/no-children-prop: off
@@ -42,18 +42,15 @@ settings:
     version: 16.9.0
 
 overrides:
-  -
-    files: "*.mdx"
+  - files: '*.mdx'
     extends:
       - plugin:@rxts/mdx/recommended
       - plugin:@rxts/mdx/overrides
     rules:
       import/no-extraneous-dependencies: 0
 
-  -
-    files:
-      - "**/test/**/*.js"
-      - "**/*.test.js"
+  - files:
+      - '**/test/**/*.js'
+      - '**/*.test.js'
     env:
       jest: true
-  -
