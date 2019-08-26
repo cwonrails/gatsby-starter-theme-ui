@@ -17,7 +17,7 @@
     "@theme-ui/presets": "0.2.34",
     "gatsby": "2.13.61",
     "gatsby-plugin-mdx": "^1.0.25",
-    "gatsby-plugin-theme-ui": "0.2.33",
+    "gatsby-plugin-theme-ui": "0.2.34",
     "react": "16.9.0",
     "react-dom": "16.9.0",
     "theme-ui": "0.2.36"
