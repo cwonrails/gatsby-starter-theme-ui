@@ -3,8 +3,12 @@
   "version": "0.0.0",
   "description": "A Gatsby starter using Theme-UI",
   "license": "MIT",
-  "author": {"Chris Watson <cwonrails@gmail.com>"},
-  "repository": {},
+  "author": {
+    "name": "Chris Watson",
+    "email": "cwonrails@gmail.com"
+  },
+  "repository": "github:cwonrails/gatsby-starter-theme-ui",
+  "private": true,
   "scripts": {
     "start": "gatsby develop",
     "clean": "gatsby clean",
