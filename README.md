@@ -1,3 +1,1 @@
-# Gatsby-Theme-UI-Template
-
-A reusable template for Gatsby sites using Theme UI.
+A Gatsby starter using [Theme-UI](https://theme-ui.com/).
