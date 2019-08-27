@@ -1,8 +1,5 @@
 {
-  "extends": [
-    "automerge: true",
-    "config:base",
-    "rangeStratery: replace",
-    "schedule:daily"
-  ]
+  "extends": ["config:base", "schedule:daily"],
+  "automerge": true,
+  "rangeStrategy": "replace"
 }
