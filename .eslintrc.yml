@@ -44,8 +44,8 @@ settings:
 overrides:
   - files: '*.mdx'
     extends:
-      - plugin:@rxts/mdx/recommended
-      - plugin:@rxts/mdx/overrides
+      - plugin:mdx/recommended
+      - plugin:mdx/overrides
     rules:
       import/no-extraneous-dependencies: 0
 
