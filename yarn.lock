@@ -6197,7 +6197,7 @@ gatsby-page-utils@^0.0.23:
     micromatch "^3.1.10"
     slash "^3.0.0"
 
-gatsby-plugin-mdx@^1.0.24, gatsby-plugin-mdx@^1.0.46:
+gatsby-plugin-mdx@^1.0.24:
   version "1.0.46"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-mdx/-/gatsby-plugin-mdx-1.0.46.tgz#872b9b222d775b4e8f7f1374dca759866bbe2483"
   integrity sha512-vQ4cFPK/Kfnte9rChR7VbTzYVXzJ929+0FHGXcJESmI0PcIQIncQWa+EwTQZcK9BGwiEWBVlYdTRGAdH7fDibw==

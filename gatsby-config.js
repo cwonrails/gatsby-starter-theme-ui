@@ -3,7 +3,6 @@ module.exports = {
     title: 'Austere',
   },
   plugins: [
-    'gatsby-plugin-mdx',
     {
       resolve: `gatsby-theme-austere`,
       options: {
