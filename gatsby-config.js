@@ -1,3 +1,15 @@
 module.exports = {
-  plugins: ['gatsby-plugin-theme-ui', 'gatsby-plugin-mdx'],
+  siteMetadata: {
+    title: 'Austere',
+  },
+  plugins: [
+    'gatsby-plugin-mdx',
+    {
+      resolve: `gatsby-theme-austere`,
+      options: {
+        basePath: '/writing',
+      },
+    },
+    'gatsby-plugin-theme-ui',
+  ],
 }
