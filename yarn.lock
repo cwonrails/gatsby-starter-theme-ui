@@ -5980,15 +5980,15 @@ eslint-plugin-jsx-a11y@^6.2.3:
     has "^1.0.3"
     jsx-ast-utils "^2.2.1"
 
-eslint-plugin-mdx@^1.6.5:
-  version "1.6.5"
-  resolved "https://registry.yarnpkg.com/eslint-plugin-mdx/-/eslint-plugin-mdx-1.6.5.tgz#c5407b800415b44f9af59086eb4960e6d6210144"
-  integrity sha512-kx6yheU0G+JQnu8HfnGXpMwgvuTjTxiC3/zHee6cu8/CcL+asugTyz3+2ODKH6dzKeUj5+cBe/jsGurYUf5W3A==
+eslint-plugin-mdx@^1.6.6:
+  version "1.6.6"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-mdx/-/eslint-plugin-mdx-1.6.6.tgz#5da40fd635690758c18f7a5a956ff70ce84bd4f5"
+  integrity sha512-oertnOkA62O7CfQ8CRpwJRSmfQ3FrnflIbzwXJpUGsTqoDD4ivFbnWJL0ERNYJyxXPCoSs5GWNr5U7haDTR1aw==
   dependencies:
     cosmiconfig "^6.0.0"
     eslint-mdx "^1.6.5"
     eslint-plugin-react ">=7.0.0"
-    remark-mdx "^1.5.2"
+    remark-mdx "^1.5.5"
     remark-parse "^7.0.2"
     remark-stringify "^7.0.4"
     tslib "^1.10.0"
