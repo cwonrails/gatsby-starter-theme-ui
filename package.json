@@ -18,7 +18,7 @@
     "@mdx-js/mdx": "^1.5.8",
     "@mdx-js/react": "^1.5.8",
     "gatsby": "^2.20.12",
-    "gatsby-plugin-react-helmet": "^3.2.1",
+    "gatsby-plugin-react-helmet": "^3.3.11",
     "gatsby-plugin-theme-ui": "^0.3.0",
     "gatsby-theme-austere": "^0.1.0",
     "react": "^16.13.1",
